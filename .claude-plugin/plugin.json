@@ -8,6 +8,8 @@
   },
   "repository": "https://github.com/ContinuaAI/continua-mcp",
   "homepage": "https://askcontinua.com",
+  "documentationUrl": "https://askcontinua.com/mcp",
+  "supportUrl": "https://askcontinua.com/help",
   "privacyPolicyUrl": "https://app.askcontinua.com/privacy-policy",
   "termsOfServiceUrl": "https://app.askcontinua.com/terms-of-service",
   "license": "MIT",
