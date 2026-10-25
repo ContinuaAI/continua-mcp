@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "continua": {
+      "type": "http",
+      "url": "https://app.askcontinua.com/mcp"
+    }
+  }
+}
