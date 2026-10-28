@@ -1,7 +1,7 @@
 {
   "name": "continua",
   "version": "1.0.0",
-  "description": "Continua MCP for Claude: Investigation, Project Room, and Automation for private credit, factoring, and supply chain finance. Investigate large source sets with up to 1B tokens of working context; produce cited memos, spreadsheets, and presentations; build an Enterprise Second Brain as a shared LLM wiki of reviewed team knowledge; schedule recurring reviews. After installation, connect Continua and sign in via Settings > Connectors (Claude Code: /mcp).",
+  "description": "Continua MCP for Claude: Investigation, Project Room, and Automation for private credit due diligence, factoring, and supply chain finance. Investigate large source sets with up to 1B tokens of working context; produce cited memos (EBITDA, DSCR, covenants), spreadsheets, and presentations; build an Enterprise Second Brain as a shared LLM wiki of reviewed team knowledge; schedule recurring reviews. After installation, connect Continua and sign in via Settings > Connectors (Claude Code: /mcp).",
   "icon": "./logo.png",
   "author": {
     "name": "Continua AI"
